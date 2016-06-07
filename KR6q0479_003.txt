@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:52:50.204300
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:49
 #+TITLE: 象崖珽禪師語錄
 #+PROPERTY: CBETA_ID J34nB308
 #+PROPERTY: ID KR6q0479
@@ -13,7 +13,7 @@
  象崖珽禪師語錄卷第三¶
 潭州西峰法孫益聞重刊¶
 
-頌古¶
+* 頌古¶
 
 「夜睹明星。」¶
 
